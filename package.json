@@ -1,0 +1,14 @@
+{
+  "name": "node-image-resizer",
+  "version": "1.0.0",
+  "description": "Image resizer made with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.4"
+  }
+}
